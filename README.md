@@ -4,8 +4,8 @@ A modern Next.js product dashboard application designed with two distinct user p
 
 ## 🚀 Live Demo
 
-- **GitHub Repository**: [Coming Soon]
-- **Netlify Deployment**: [Coming Soon]
+- **GitHub Repository**: [https://github.com/djval79/testdash](https://github.com/djval79/testdash)
+- **Netlify Deployment**: [Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/djval79/testdash)
 
 ## ✨ Features
 
